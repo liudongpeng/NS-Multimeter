@@ -1,0 +1,8 @@
+*/*.exe
+*/*.cws
+*/*.cds
+*/cvidistkit.*/*
+*/cvibuild.*/*
+*/*.rar
+*/*.zip
+*/*.log
